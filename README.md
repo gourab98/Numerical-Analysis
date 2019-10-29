@@ -1,5 +1,5 @@
 # Numerical-Analysis
-Numerical Analysis Lab Assignment implimented in Octave. 
+Numerical Analysis Lab Assignment implemented in Octave. 
 ```
 1. Bisection
 2. False Position
